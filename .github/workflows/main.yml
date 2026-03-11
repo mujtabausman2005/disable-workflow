@@ -8,7 +8,7 @@ jobs:
   disable:
     runs-on: ubuntu-latest
 
-    steps:
+  steps:
       - name: Mujtaba
         run: echo "Hey disable flow"
 
