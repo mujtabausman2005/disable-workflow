@@ -9,5 +9,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name : Mujtaba
-        run : echo "Hey disable flow"
+      - name: Mujtaba
+        run: echo "Hey disable flow"
